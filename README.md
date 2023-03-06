@@ -1,6 +1,6 @@
 # Cobble Abuser 9000
 
-This is a Python bot that automates mining cobblestone and selling it in Hypixel Skyblock.
+This is a bot that automates mining cobblestone and selling it in Hypixel Skyblock.
 
 
 ## Requirements (IMPORTANT)
