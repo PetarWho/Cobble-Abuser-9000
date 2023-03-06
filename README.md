@@ -20,7 +20,7 @@ You need to have all of these to make it work.
 <li>Log in Hypixel and navigate to the Skyblock gamemode.</li>
 <li>Position your character in a spot where it can mine cobblestone.</li>
 <li>Once positioned, open the program and after 5 seconds the bot will take control.</li>
-<li>Press the "Q" key on your keyboard to stop the bot.</li>
+<li>Press the "Z" key on your keyboard to stop the bot.</li>
 </ol>
 
 
