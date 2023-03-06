@@ -58,15 +58,15 @@ def print_mine_hours():
 
 async def abuse():
     write("Mining Starts in 5 secs...\n", Fore.LIGHTYELLOW_EX)
-    await asyncio.sleep(5)
+    await asyncio.sleep(6)
     print(f"{ current_time()} Mining started!")
     global hours_spent
     hours_spent = 1
     while True:
         await start_mining()
-        await asyncio.sleep(10)
+        await asyncio.sleep(3600)
         await stop_mining()
-        await asyncio.sleep(1)
+        await asyncio.sleep(0.5)
         await send_command("bz")
         await asyncio.sleep(1)
         await click(mining_category_location[0], mining_category_location[1])
