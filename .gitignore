@@ -3,3 +3,6 @@
 .idea/
 venv/
 *.spec
+__pycache__/
+engine/__pycache__/console_utils.cpython-310.pyc
+engine/__pycache__/console_utils.cpython-310.pyc
