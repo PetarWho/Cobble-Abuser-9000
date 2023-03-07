@@ -9,7 +9,7 @@ You need to have all of these to make it work.
 <li>Teleport pad on one side of the farm and another on the other, so that when you reach the end, you can teleport back and continute mining.</li>
 <li>Stonk Pickaxe for mining the cobble</li>
 <li>Silverfish Pet or God Potion, since you need Haste 3 to insta-mine cobble.</li>
-<i>Note that god potions expire, if your expires while mining you won't be able to mine any cobble.</i>
+<i>Note that god potions expire, if your expires while mining you won't be able to mine any cobble. Another alternative is to use Haste 3 potions but they expire pretty fast.</i>
 <li>Personal Compactor with Enchanted Cobblestone inside to automate the crafting process.</li>
 <li>Large Enchanted Mining Sack, so you can store the enchanted cobble.</li>
 <li>Booster Cookie to access /bz for selling enchanted cobble.</li>
@@ -33,6 +33,6 @@ Here are some tips to increase your profits
 <li>Speed, you can insta-mine cobble, so the faster you go the more cobble you will mine per hour.</li>
 <li>Compact Enchant, maxed in 1 million mined cobble it has 0.6% chance to drop enchanted cobble when mining regular cobble.</li>
 <li>Reforge Stonk to Unyielding for +4 mining fortune and enchant with Fortune 3 for more mining fortune.</li>
-<li>If you are using God Potion, then you can equip a pet for more Mining Fortune. <i>(Don't do it if you dont have god pot since you can't inst-mine.. Stick to Silverfish)</i></li>
+<li>If you are using God Potion, then you can equip a pet for more Mining Fortune. <i>(Don't do it without god pot since you can't insta-mine without Silverfish)</i></li>
 <li>Don't forget about HOTM perks. You can not only get more fortune but also Efficiant Miner perk on HOTM Tier 4 which allows you to mine multiple ores at once, and for cobble counts toward ores for some reason.</li>
 </ol>
