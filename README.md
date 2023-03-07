@@ -34,5 +34,5 @@ Here are some tips to increase your profits
 <li>Compact Enchant, maxed in 1 million mined cobble it has 0.6% chance to drop enchanted cobble when mining regular cobble.</li>
 <li>Reforge Stonk to Unyielding for +4 mining fortune and enchant with Fortune 3 for more mining fortune.</li>
 <li>If you are using God Potion, then you can equip a pet for more Mining Fortune. <i>(Don't do it without god pot since you can't insta-mine without Silverfish)</i></li>
-<li>Don't forget about HOTM perks. You can not only get more fortune but also Efficiant Miner perk on HOTM Tier 4 which allows you to mine multiple ores at once, and for cobble counts toward ores for some reason.</li>
+<li>Don't forget about HOTM perks. You can not only get more fortune but also Efficiant Miner perk on HOTM Tier 4 which allows you to mine multiple ores at once, and cobble counts toward ores for some reason.</li>
 </ol>
