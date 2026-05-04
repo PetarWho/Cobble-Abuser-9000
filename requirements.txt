@@ -1,0 +1,6 @@
+pyautogui
+keyboard
+pillow
+customtkinter
+colorama
+asyncio
